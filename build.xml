@@ -1,7 +1,0 @@
-<project default="compile">
-    <target name="compile">
-        <mkdir dir="CAIOU/bin"/>
-        <javac srcdir="CAIOU/src" destdir="CAIOU/bin" encoding="iso-8859-1"/>
-    </target>
-</project>
-
